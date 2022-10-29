@@ -29,7 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 
-[MIT]()
-
-
-[def]: https://gyazo.com/9c69dcdab47bd02d01d374c9c3070122
+[MIT](https://choosealicense.com/licenses/mit/)
